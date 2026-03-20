@@ -1,6 +1,5 @@
-# Important (중요)
-We Are Not Making This Game Any More
-
+> [!IMPORTANT]
+We Are Not Making This Game Any More  
 이게임을 더이상 제작하지 않습니다.
 
 # Red-Iron
